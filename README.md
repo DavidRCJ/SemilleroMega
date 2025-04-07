@@ -15,23 +15,24 @@ Esquema de baja fidelidad en Canva
 Diagramda de Flujo en DrawIO para el funcionamiento de la interfaz
 Desarrollado en Visual Studio Code con HTML, CSS y JS
 ### 3. ¿Como instalar?
-
+Clonar el Repo en su pc en la terminal copiar el siguiente comando
+      git clone https://github.com/DavidRCJ/SemilleroMega.git
 ### 4. Mockup de la aplicación
 Un primer diseño, esta en Draw explica el Flujo de las pestañas
-
-
 ![](/assets/mockup.png)
 
 ### 4. Capturas de pantalla - 5 capturas con explicacion
-
-
 Para iniciar Abri el Index.html, y cargar el liveserver para entrar a la ventana de welcome
 ![](./CapturasPantallaEntrega/welcome.jpg)
 2.- Seleccionar Login
 ![](./CapturasPantallaEntrega/login.jpg)
 3.- Escribir usuario xxxx,password xxxx y presionar launch
-4.- Esatras dentro de movies o series puedes interactuar con el navbar con Movies, Series, Perfil
+4.- Esatras dentro de movies o series puedes interactuar con el navbar con Movies
 ![](./CapturasPantallaEntrega/VentanaPeliculas.jpg)
+    Series, puedes ver las series disponibles, por ahroa no pero talves en el futuro
+    ![](./CapturasPantallaEntrega/VentanaSeries.jpg)
+    Perfil, permite agregar algunos datos
+    ![](./CapturasPantallaEntrega/perfil.jpg)
 
 
 ### 5. Proceso que seguiste para hacerlo 
