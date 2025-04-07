@@ -7,9 +7,9 @@ body{
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 columnas */
     grid-template-rows: repeat(1, auto);   /* 2 filas */
-    gap:0.1%;
-    
+    gap:0.1%;    
     height: 100vh;
+   
   }
   
   .matriz div {
@@ -46,6 +46,12 @@ img{
     padding: 20%;
     height: 100vh;
     background-color: #030c3b;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  
 }
 
 
@@ -59,6 +65,11 @@ img{
     padding: 1%5% 0;
   }
 
-  #btn2{
-    background-color: blueviolet ;
+  .log{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   }
+
+ 
