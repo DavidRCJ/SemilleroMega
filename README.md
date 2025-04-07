@@ -24,7 +24,7 @@ Un primer diseño, esta en Draw explica el Flujo de las pestañas
 ### 4. Capturas de pantalla - 5 capturas con explicacion
 
 ![](/assets/captura1.png)
-EXPLICACION
+EXPLICACION la hacemora ahorita
 
 ### 5. Proceso que seguiste para hacerlo 
 
@@ -33,4 +33,4 @@ EXPLICACION
 
 | Que salio bien? | Que puedo hacer diferente? | Que no salio bien ? |
 ------------------|----------------------------|-----------------------
-| sadfjkdfhsdkjhdjk | sdjkhjdfjksdhdjksjk | sdjklfhjsdajkfh |
+| Pending  | Pending | pending |
