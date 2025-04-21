@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(57, 15, 115);
+    background: linear-gradient(20deg,black,rgb(3, 33, 81),rgb(136, 136, 136),rgb(2, 26, 75))
 }
 .profile{
     display: flex;
@@ -7,8 +7,49 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+img {
+    height: 300px;
+    width: auto;
+    border-radius: 50%;
+  }
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    color: aquamarine;
+    text-shadow: 1cap;
+}
 .container{
     grid-column: auto;  
     margin-bottom: 10%;
     padding: 5%;
 }
+
+
+@media (max-width: 800px) {
+    h1 {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        font-size: 28px;
+        color: aquamarine;
+        text-shadow: 1cap;
+    }
+  
+    img {
+      height: 300px;
+      width: auto;
+    }
+  
+    .profile {
+      gap: 30px;
+      padding: 10%;
+    }
+    .container {
+        gap: 30px;
+        padding: 10%;
+      }
+  }
+  
